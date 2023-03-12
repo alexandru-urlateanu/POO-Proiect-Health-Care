@@ -1,4 +1,4 @@
-# POO-Proiect01---Health-Care
+# POO-Proiect01-Health-Care
 
 Programul implementeaza o clasa care ar putea fi folosita de o firma privata de sanatate pentru a oferi servicii medicale clientilor sai.
 
